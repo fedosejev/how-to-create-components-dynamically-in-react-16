@@ -11,7 +11,7 @@ const IMAGES = [
 
 const App = () => (
   <div className="container">
-    <div className="row">
+    <div className="row mt-2 mb-2">
       <div className="col-sm-12 text-center">
         {IMAGES.map(image => (
           <Image source={image} key={image} />
