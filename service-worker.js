@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/how-to-create-components-dynamically-in-react-16/precache-manifest.9431c5f9d48c322d9cba639103776fbd.js"
+  "/how-to-create-components-dynamically-in-react-16/precache-manifest.c6a5110873d472e927a9eb8571a24015.js"
 );
 
 workbox.clientsClaim();
